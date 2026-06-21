@@ -1,0 +1,1 @@
+from .fortune import *
